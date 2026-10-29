@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "christiansurvival.play.hosting",
+    "port": 25820,
     "version": "",
     "try-creative": false
   },
